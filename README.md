@@ -1,4 +1,4 @@
-## Hi there, I'm Nguyen Van Khoi, I'm student from FPT University, my major is software engineering👋
+## Hi there, I'm Nguyen Van Khoi, my major is software engineering👋
 ## This is some information about me:
 - 🔭 I’m currently intern on UTA Solution
 - 🌱 I’m currently learning at FPT University
